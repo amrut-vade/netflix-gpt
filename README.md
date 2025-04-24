@@ -78,3 +78,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
  ##  login form
  ## Sign in form
  ##  sing up form
+
+ ## Routing 
+ ## useRefhook
+ ## form  validation
+ ## useRef hook 
+ ## firebase setup 
+ ## deploygin  app to production
+ ## create signUP User Account 
+ ## implement Sign in api 
+ -created redux store with userSlice
+ --Implemented Sign In user Api 
+ -- created sotre with userSlice
+ --implemented sign out 
+ -- implemeneted sign in 
+ -- implemeneted 
+ -- updated profile
+-- bugFix -- Signup up user displyaName and profile picture update 
+-- bugfix --  if the user is not logged is Redirect / browser to login  page and vice-versa
+--we unscribe to the onAuthStateChagne callback
