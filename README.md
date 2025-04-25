@@ -97,3 +97,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -- bugFix -- Signup up user displyaName and profile picture update 
 -- bugfix --  if the user is not logged is Redirect / browser to login  page and vice-versa
 --we unscribe to the onAuthStateChagne callback
+
+-- Register TMDB API &  Create an app & get access token 
+--- Get data from TMDB now playing movie list APi
+
+
+
+-- API KEY 
+-- ef0fbb35cb55301acbb7de9d602542c4 
+--  eyJhbGciOiJIUzI1NiJ9.            eyJhdWQiOiJlZjBmYmIzNWNiNTUzMDFhY2JiN2RlOWQ2MDI1NDJjNCIsIm5iZiI6MTc0NTUxMzQyNi4wODA5OTk5LCJzdWIiOiI2ODBhNmJkMmFjMDJk  NDQwN2JhYmI4ODEiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.yJ8S2_OSQwfe0Zn6tEx7Ppxh3Xp36TreCZpTkjbQbhA  
