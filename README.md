@@ -108,6 +108,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 -- update store with trailor video 
 -- Embbeded the youtube video and make it auto play mute 
 -- added tailwind css looks awsome
+-- Gpt Search Bar 
+-- GPt  Seacrh page
+-- added multilanguage feature
 
 
 

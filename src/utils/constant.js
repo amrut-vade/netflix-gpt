@@ -11,3 +11,13 @@
       Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJlZjBmYmIzNWNiNTUzMDFhY2JiN2RlOWQ2MDI1NDJjNCIsIm5iZiI6MTc0NTUxMzQyNi4wODA5OTk5LCJzdWIiOiI2ODBhNmJkMmFjMDJkNDQwN2JhYmI4ODEiLCJzY29wZXMiOlsiYXBpX3JlYWQiXSwidmVyc2lvbiI6MX0.yJ8S2_OSQwfe0Zn6tEx7Ppxh3Xp36TreCZpTkjbQbhA'
     }
   };
+
+// img cdn
+  export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w500/";
+
+  // lagauge supported
+  export const SUPPORTED_LANGUAGE=[
+    {identifier:"en" , name:"English"},
+    {identifier:"hindi" , name:"Hindi"},
+    {identifier:"spanish" , name:"Spanish"},
+  ];
